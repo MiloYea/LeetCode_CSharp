@@ -1,0 +1,15 @@
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\bin\Debug\net8.0\Day01_TwoSum.exe
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\bin\Debug\net8.0\Day01_TwoSum.deps.json
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\bin\Debug\net8.0\Day01_TwoSum.runtimeconfig.json
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\bin\Debug\net8.0\Day01_TwoSum.dll
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\bin\Debug\net8.0\Day01_TwoSum.pdb
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\obj\Debug\net8.0\Day01_TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\obj\Debug\net8.0\Day01_TwoSum.AssemblyInfoInputs.cache
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\obj\Debug\net8.0\Day01_TwoSum.AssemblyInfo.cs
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\obj\Debug\net8.0\Day01_TwoSum.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\obj\Debug\net8.0\Day01_TwoSum.sourcelink.json
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\obj\Debug\net8.0\Day01_TwoSum.dll
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\obj\Debug\net8.0\refint\Day01_TwoSum.dll
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\obj\Debug\net8.0\Day01_TwoSum.pdb
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\obj\Debug\net8.0\Day01_TwoSum.genruntimeconfig.cache
+D:\Github\C_Sharp\LeetCode_CSharp\Day01_TwoSum\obj\Debug\net8.0\ref\Day01_TwoSum.dll
